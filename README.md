@@ -23,3 +23,5 @@ our_bot_token = "YOUR_TOKEN_HERE"
 ```
 
 Now you can simply run the bot by running `main.py`
+
+Make sure the bot has permissions to delete messages!
