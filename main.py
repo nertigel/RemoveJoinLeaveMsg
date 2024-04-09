@@ -1,4 +1,4 @@
-our_bot_token = "1393754707:AAER7Iygrwgmm0em7LqqHYFYDRNYxSC3tMk"
+our_bot_token = "123:abc"
 
 # imports
 from telegram import Update
