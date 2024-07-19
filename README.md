@@ -16,10 +16,10 @@ You can run this bot on your own, install the required lib by running this comma
 pip install python-telegram-bot
 ```
 
-First line in the `main.py` file you will find the bot token variable, get your bot's token from the [BotFather](https://telegram.me/botfather) and insert it in the code:
+In the `data.json` file you will find the bot_token variable, get your bot's token from the [BotFather](https://telegram.me/botfather) and replace `YOUR_TOKEN_HERE` with your token:
 
 ```python
-our_bot_token = "YOUR_TOKEN_HERE"
+"bot_token": "YOUR_TOKEN_HERE"
 ```
 
 Now you can simply run the bot by running `main.py`
